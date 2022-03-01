@@ -1,0 +1,29 @@
+
+            body{
+                background-color: rgb(88, 212, 171);
+                margin-top: 5%;
+
+                margin-left:  10%;
+                margin-right: 10%;
+            }
+
+            img{
+                margin-bottom: 5%;
+            }
+
+            p{
+                color: rgb(20, 20, 15);
+                text-align: center;
+                margin-left: 10%;
+            }
+
+            h1{
+                background-color: paleturquoise;
+                color: whitesmoke;
+                border-style: ridge;
+                text-align: center;
+            }
+        }
+
+           
+
